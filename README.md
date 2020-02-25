@@ -11,7 +11,7 @@ data vs. big data, clean data vs. messy data.
 the business rules of a given data model.
 - Discuss the architectures and technologies for relational database systems,
 data warehousing, information retrieval and search engines.
-- Discuss the fundamental concepts of data storage, retrieval, analysis, data
+- Discuss the fundamental concepts of data storage, retrieval, analysis and data
 processing for data analytics applications.
 - Apply the normalization process to analyze, design, and create relational
 database applications.
